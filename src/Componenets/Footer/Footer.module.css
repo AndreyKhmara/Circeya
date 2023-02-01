@@ -1,0 +1,25 @@
+.footer {
+
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    height: 200px;
+
+    background-color: #141414;
+
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+
+}
+
+.footerText {
+    color: white;
+    text-align: center;
+    width: 252px;
+    height: 32px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+}

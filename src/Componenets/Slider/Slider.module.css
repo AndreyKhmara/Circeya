@@ -1,0 +1,29 @@
+.container {
+    max-width: auto;
+    margin: auto;
+    margin-top: 200px;
+
+}
+
+.items::-webkit-scrollbar {
+    width: 0;
+}
+
+.items {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    overflow-x: scroll;
+    scrollbar-width: none;
+    /* cursor: pointer; */
+}
+
+.items div>div {
+    margin-left: 20px;
+}
+
+.item {
+    width: 320px;
+    height: auto;
+    margin-left: 200px;
+}

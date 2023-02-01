@@ -1,0 +1,61 @@
+.topheader {
+    width: 1253px;
+    height: 60px;
+    left: 263px;
+    margin-top: 300px;
+    margin-left: 260px;
+    margin-bottom: 100px;
+    font-family: 'Orchidea Pro';
+
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 130%;
+
+    text-transform: uppercase;
+    color: #141414;
+}
+
+.topText {
+    width: 600px;
+    height: 160px;
+    font-family: 'Orchidea Pro';
+
+}
+
+.description {
+    width: 600px;
+    height: 150px;
+
+    font-family: 'Manrope';
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23.4px;
+    margin-bottom: 25px;
+}
+
+.descriptionBottom {
+    width: 600px;
+    height: 150px;
+
+    font-family: 'Manrope';
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23.4px;
+    margin-bottom: 25px;
+    margin-left: 260px;
+}
+
+
+.container {
+    width: 1600px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.mainContainer {
+    /* position: relative;
+    left: 0 */
+}
